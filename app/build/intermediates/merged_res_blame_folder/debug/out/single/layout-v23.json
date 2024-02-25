@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ir.barook.todonote.app-mergeDebugResources-52:/layout-v23/fragment_notes.xml",
+        "source": "ir.barook.todonote.app-main-55:/layout-v23/fragment_notes.xml"
+    },
+    {
+        "merged": "ir.barook.todonote.app-mergeDebugResources-52:/layout-v23/fragment_tasks.xml",
+        "source": "ir.barook.todonote.app-main-55:/layout-v23/fragment_tasks.xml"
+    }
+]
